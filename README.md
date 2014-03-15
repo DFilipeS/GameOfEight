@@ -4,7 +4,7 @@ Código em Java que resolve o Jogo dos Oito através de vários algoritmos de bu
 
 **Requisitos**
 
-	- Ter instalado JDK 7 (sudo apt-get install openjdk-7-jdk)
+	- JDK 7 (sudo apt-get install openjdk-7-jdk)
 
 **Instruções**
 
